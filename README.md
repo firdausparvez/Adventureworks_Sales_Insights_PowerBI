@@ -1,5 +1,5 @@
 # AdventureWorks Sales & Customer Insights | Power BI
-
+![Executive Dashboard Overview](Dashboard_screenshot/Executive_dashboard.png)
 ## Project Overview
 This project is an end-to-end Power BI business intelligence solution built using AdventureWorks sales data.
 The goal is to transform raw transactional data into a clean analytical model to solve business problems like high return rates and identify customer sales trends.
@@ -8,6 +8,12 @@ The goal is to transform raw transactional data into a clean analytical model to
 * 📄 **[Full Project Report & Strategic Recommendations](./Adventureworks_Sales_Insights_Report.md)** – *Read the complete analysis, insights, and business recommendations.*
 * 💼 **[Business Requirements Document (BRD)](./Business%20Requirements%20Document.md)** – *View the initial project scope and stakeholder requirements.*
 * 🧮 **[DAX Measures Code](./DAX_Measures.md)** – *View the raw DAX formulas used for complex calculations.*
+
+## Business Problem
+The company lacked visibility into:
+* Real-time sales and profit trends.
+* High return rates on specific products (specifically Accessories).
+* Customer demographics and their purchasing power.
 
 ## Dashboard Visuals
 
@@ -41,12 +47,6 @@ The goal is to transform raw transactional data into a clean analytical model to
     </td>
   </tr>
 </table>
-
-## Business Problem
-The company lacked visibility into:
-* Real-time sales and profit trends.
-* High return rates on specific products (specifically Accessories).
-* Customer demographics and their purchasing power.
 
 ## Tech Stack
 * **Tool:** Power BI Desktop
